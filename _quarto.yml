@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: static
+
+website:
+  title: "eren_site"
+  repo-url: "https://github.com/ed-research-eval-network/eren_site"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+    right:
+    - icon: github
+      aria-label: github
+      href: https://github.com/ed-research-eval-network
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+freeze: auto
