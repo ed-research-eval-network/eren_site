@@ -3,19 +3,22 @@ project:
   output-dir: static
 
 website:
-  title: "eren_site"
+  title: "EREN"
   repo-url: "https://github.com/ed-research-eval-network/eren_site"
 
   navbar:
+    pinned: true
+
     left:
-      - href: index.qmd
-        text: Home
       - about.qmd
 
     right:
     - icon: github
       aria-label: github
       href: https://github.com/ed-research-eval-network
+    - icon: google
+      aria-label: google
+      href: https://drive.google.com/drive/folders/0BwnV4ddOdPjPMFM1ZVBUdmRXRVU?resourcekey=0-cIUITAuybPGV-1ht-WTOcg&usp=share_link
 
 format:
   html:

@@ -1,5 +1,5 @@
 ---
-title: "eren_site"
+title: EREN
 ---
 
 Welcome to the Educational Research and Evaluation Network's (EREN) website!
