@@ -2,4 +2,4 @@
 title: EREN
 ---
 
-Welcome to the Educational Research and Evaluation Network's (EREN) website!
+Welcome to the Educational Research and Evaluation Network's (EREN) website! You can learn more about us [here](about.qmd)
